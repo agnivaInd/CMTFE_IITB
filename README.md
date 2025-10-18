@@ -10,3 +10,7 @@ Codes for Computational  Methods in Thermal and Fluids Engineering. These are th
 [Assignment 4] Codes for performing interpolation using the Quadratic Polynomial Interpolation, Newton's Divided Difference Method and the Lagrange Polynomial Interpolation method. Results are displayed in a plot, comparing the performance of the different schemes. 
 
 [Assignment 5] Codes for solving 1D Transient Heat Conduction Equation, using the FTCS, BTCS and the DuFort Frenkel Schemes. Results are displayed in seperate plots, comparing the performance of different schemes.
+
+[Assignment 6] Codes for solving 2D Transient Heat Conduction Equation, using the FTCS scheme with 4 different boundary conditions at 4 walls. Results are displayed as an animation showing the development of the thermal profile.
+
+[Assignment 7] Codes for solving the 1D Wave Equation using the Lax-Wendroff and Euler BTCS schemes. Results are stored in CSV files, and animations are done using the data from those CSV files. 
