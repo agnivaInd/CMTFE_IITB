@@ -14,3 +14,5 @@ Codes for Computational  Methods in Thermal and Fluids Engineering. These are th
 [Assignment 6] Codes for solving 2D Transient Heat Conduction Equation, using the FTCS scheme with 4 different boundary conditions at 4 walls. Results are displayed as an animation showing the development of the thermal profile.
 
 [Assignment 7] Codes for solving the 1D Wave Equation using the Lax-Wendroff and Euler BTCS schemes. Results are stored in CSV files, and animations are done using the data from those CSV files. 
+
+[Assignment 8] Code for solving the steady state lid driven cavity problem. Results displayed are validated with data from literature in an additional plot in the code.
